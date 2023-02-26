@@ -1,0 +1,22 @@
+C:\Users\unisanta\source\repos\raiz\raiz\bin\Debug\raiz.exe.config
+C:\Users\unisanta\source\repos\raiz\raiz\bin\Debug\raiz.exe
+C:\Users\unisanta\source\repos\raiz\raiz\bin\Debug\raiz.pdb
+C:\Users\unisanta\source\repos\raiz\raiz\obj\Debug\raiz.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\raiz\raiz\obj\Debug\raiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\raiz\raiz\obj\Debug\raiz.Form1.resources
+C:\Users\unisanta\source\repos\raiz\raiz\obj\Debug\raiz.Properties.Resources.resources
+C:\Users\unisanta\source\repos\raiz\raiz\obj\Debug\raiz.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\raiz\raiz\obj\Debug\raiz.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\raiz\raiz\obj\Debug\raiz.exe
+C:\Users\unisanta\source\repos\raiz\raiz\obj\Debug\raiz.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\raiz\raiz\bin\Debug\raiz.exe.config
+C:\Users\lucas\OneDrive\Área de Trabalho\raiz\raiz\bin\Debug\raiz.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\raiz\raiz\bin\Debug\raiz.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\raiz\raiz\obj\Debug\raiz.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\raiz\raiz\obj\Debug\raiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\raiz\raiz\obj\Debug\raiz.Form1.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\raiz\raiz\obj\Debug\raiz.Properties.Resources.resources
+C:\Users\lucas\OneDrive\Área de Trabalho\raiz\raiz\obj\Debug\raiz.csproj.GenerateResource.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\raiz\raiz\obj\Debug\raiz.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\raiz\raiz\obj\Debug\raiz.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\raiz\raiz\obj\Debug\raiz.pdb
